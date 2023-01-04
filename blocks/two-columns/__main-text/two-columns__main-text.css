@@ -4,5 +4,5 @@
     width: 80%;
     min-width: 784px;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: flex-start;
   }
