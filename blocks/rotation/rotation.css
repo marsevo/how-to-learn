@@ -2,10 +2,12 @@
 	from {
 		transform: rotate(-15deg);
 	}
+
 	to {
 		transform: rotate(345deg);
 	}
 }
+
 .rotation {
-  animation: rotation 20s infinite linear;
+	animation: rotation 20s infinite linear;
 }

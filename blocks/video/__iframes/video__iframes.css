@@ -1,6 +1,9 @@
 .video__iframes {
-    position: relative;
-    margin: 0 auto;
-    z-index: 10;
-    transform: translateY(50px);
-  }
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  position: relative;
+  margin: 0 auto;
+  z-index: 10;
+  transform: translateY(50px);
+}

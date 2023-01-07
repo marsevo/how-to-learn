@@ -1,9 +1,9 @@
 .table {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 60px auto;
-    margin-bottom: 100px;
-    padding: 0;
-    list-style-type: none;
-  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 60px auto;
+  margin-bottom: 100px;
+  padding: 0;
+  list-style-type: none;
+}

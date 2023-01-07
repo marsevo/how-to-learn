@@ -1,7 +1,7 @@
 .cards__image {
   width: 160px;
   height: 160px;
-  object-fit: cover;
+  object-fit: contain;
   object-position: 50% 50%;
   border-radius: 50%;
 }
